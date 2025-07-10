@@ -120,3 +120,7 @@ Let’s connect and see how I can help your business grow!
 ---
 
 *Thank you for visiting my portfolio!*
+
+<!--
+SEO: Freelance Data Entry Indonesia, Remote Bookkeeper Indonesia, Data Entry Specialist, Online Bookkeeping, Data Cleaning Services, Virtual Assistant Indonesia, Data Entry Freelancer, Remote Data Entry, Indonesia Data Entry Portfolio
+-->
