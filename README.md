@@ -9,11 +9,23 @@
 
 ---
 
+## 📚 Table of Contents
+
+- [About Me](#-about-me)
+- [Skills](#-skills)
+- [Sample Projects](#-sample-projects)
+- [Testimonials](#-testimonials)
+- [Certifications](#-certifications)
+- [Languages](#-languages)
+- [Contact Me](#-contact-me)
+
+---
+
 ## 👩‍💻 About Me
 
 Hello! I’m Wilianti, a dedicated freelance accounting and data entry specialist with 6+ years of experience helping businesses keep their records accurate, organized, and confidential.
 
-I love working with numbers, data, and people—making sure your information is always handled efficiently and professionally. Whether you need help with payments, bookkeeping, data entry, transcription, research, or spreadsheet management, you can count on me for quality work delivered with a smile.
+I love working with numbers, data, and people—making sure your information is always handled efficiently and professionally. Whether you need help with payments, bookkeeping, data entry, transcription, or research, I’m ready to help!
 
 ---
 
@@ -41,8 +53,6 @@ I love working with numbers, data, and people—making sure your information is 
 - Maintained accurate financial records and accounts  
 - Streamlined team workflows, removed duplicates, standardized data, and ensured payment accuracy
 
----
-
 ### 2. ERP System Consultant & Data Migration
 **Client:** Chinese Consumer Electronics Company (Confidential)  
 **Tools:** Kingdee ERP, Excel, Outlook, WeChat, WhatsApp, SQL Management, Power BI, Zentao, WeCom  
@@ -51,8 +61,6 @@ I love working with numbers, data, and people—making sure your information is 
 - Created user guides and financial reports  
 - Supported the full ERP implementation process—from requirements to post-launch support
 
----
-
 ### 3. Marketing Growth & Data Analysis
 **Client:** Digital Mobile Network Operator (Indonesia, Confidential)  
 **Tools:** Google Forms, Excel, Word, Adobe Analytics, Facebook Ads, Shopee Ads, Tokopedia Ads, Sisense, Metabase, Slack, Hotjar, VPN  
@@ -60,6 +68,9 @@ I love working with numbers, data, and people—making sure your information is 
 - Updated and analyzed business action lists  
 - Translated documents (English ↔ Indonesian)  
 - Delivered competitor research and data analysis reports for business growth
+
+#### 🔗 View an anonymized sample:
+[Sample Data Entry Spreadsheet](samples/sample_data_entry.csv)
 
 ---
 
@@ -78,11 +89,21 @@ I love working with numbers, data, and people—making sure your information is 
 
 ## 🎓 Certifications
 
+![Excel Certified](https://img.shields.io/badge/Excel-Certified-green?logo=microsoft-excel)
+
 - Microsoft Excel Certification (PT. ATI BUSINESS GROUP, 2020)
 - Bachelor of Economics in Accountancy (Tarumanagara University, 2015)
 - Accurate Accounting Software Training (Tarumanagara University, 2014)
 - Data Processing with SPSS Training (Tarumanagara University, 2012)
 - MYOB Basics Training (Saint Marie High School Pekanbaru, 2010)
+
+---
+
+## 🌐 Languages
+
+- Bahasa Indonesia (native)
+- English (fluent)
+- Mandarin Chinese (conversational)
 
 ---
 
