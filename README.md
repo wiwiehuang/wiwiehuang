@@ -69,8 +69,8 @@ I love working with numbers, data, and people—making sure your information is 
 - Translated documents (English ↔ Indonesian)  
 - Delivered competitor research and data analysis reports for business growth
 
-#### 🔗 View an anonymized sample:
-[Sample Portfolio Spreadsheet](Portfolio_Dashboard Monitoring & KPI.xlsx)
+#### 🔗 View sample files:
+- [Portfolio Dashboard Monitoring & KPI (Excel)](Portfolio_Dashboard%20Monitoring%20%26%20KPI.xlsx)
 
 ---
 
