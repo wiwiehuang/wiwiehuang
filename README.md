@@ -73,7 +73,7 @@ I love working with numbers, data, and people—making sure your information is 
 - [Portfolio Dashboard Monitoring & KPI (Excel)](Portfolio_Dashboard%20Monitoring%20%26%20KPI.xlsx)
 
 #### 📊 Dashboard Preview
-![Dashboard Sample](sample_dashboard monitoring.png)
+- [sample_dashboard monitoring.png](sample_dashboard%20monitoring.png)
 ---
 
 ## 💬 Testimonials
