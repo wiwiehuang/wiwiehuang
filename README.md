@@ -70,7 +70,7 @@ I love working with numbers, data, and people—making sure your information is 
 - Delivered competitor research and data analysis reports for business growth
 
 #### 🔗 View an anonymized sample:
-[Sample Data Entry Spreadsheet](samples/sample_data_entry.xlsx)
+[Sample Portfolio Spreadsheet](Portfolio_Dashboard Monitoring & KPI.xlsx)
 
 ---
 
