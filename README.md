@@ -77,7 +77,7 @@ Client: Digital Mobile Network Operator (Indonesia)
 ![Excel Certified](https://img.shields.io/badge/Excel-Certified-green?logo=microsoft-excel)
 ![Accurate Training](https://img.shields.io/badge/Accurate-Accounting_Training-red)
 ![MYOB Training](https://img.shields.io/badge/MYOB-Basics_Training-blue)
-![SPSS Training](https://img.shields.io/badge/SPSS-Data_Processing-orange)
+![SPSS Training](https://img.shields.io/badge/SPSS-Training_Data_Processing-orange)
 
 
 - Microsoft Excel Certification (PT. ATI BUSINESS GROUP, 2020)
