@@ -106,6 +106,13 @@ Client: Digital Mobile Network Operator (Indonesia)
 
 ---
 
+## 📁 Repositories
+
+- [Freelance Accounting & Data Entry Samples](./freelance-accounting-data-entry)
+- [Marketing Analysis Dashboard](./marketing-data-analysis-dashboard)
+
+---
+
 ## 📫 Contact Me
 
 Looking for someone who cares about your data as much as you do?  
@@ -117,6 +124,7 @@ Let’s connect and see how I can help your business grow!
 - **Upwork:** [Wilianti.W](https://www.upwork.com/freelancers/~01de347855df8588f0?mp_source=share)
   
 ---
+
 
 *Thank you for visiting my portfolio!*
 
