@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-Hello! I’m Wilianti, a dedicated freelance accounting and data entry specialist with 6+ years of experience helping businesses keep their records accurate, organized, and confidential.
+Hello! I’m Wilianti, a dedicated freelance accounting and data entry specialist with 7+ years of experience helping businesses keep their records accurate, organized, and confidential.
 
 I love working with numbers, data, and people—making sure your information is always handled efficiently and professionally. Whether you need help with payments, bookkeeping, data entry, transcription, or research, I’m ready to help!
 
