@@ -33,7 +33,7 @@ Client: Chinese Consumer Electronics Companies and Chinese Beauty and Skincare C
 
 **Accounting Staff – Akulaku Indonesia**  
 *May 2021 – May 2023 | Hybrid*  
-Worked across YONYOU Client, Kingdee, OA and Excel to manage monthly closings, post journal entries, and prepare financial statements. Processed bank transactions, reconciled discrepancies, tracked prepayments, and maintained alignment between ERP records and reports.
+Worked across Yonyou, Kingdee,Excel and Office Automation System to manage monthly closings, post journal entries, and prepare financial statements. Processed bank transactions, reconciled discrepancies, tracked prepayments, and maintained alignment between ERP records and reports.
 
 **Marketing Growth & Data Analysis**  
 *Nov 2020 – Feb 2021 | Remote*  
