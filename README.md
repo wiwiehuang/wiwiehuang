@@ -3,35 +3,42 @@
 
 ## 💡 About Me
 
-I’m a freelance Accounting and Data Entry Specialist passionate about helping businesses stay organized and confident in their numbers. Over the past 7 years, I’ve supported e-commerce brands, fintech companies, and international teams with everything from reconciling daily transactions to customizing ERP workflows.
+I’m a freelance Accounting and Data Entry Specialist with over 7 years of experience helping businesses keep their records precise and operations efficient. I’ve worked with e-commerce brands, fintech companies, and multinational teams on everything from daily transaction processing to ERP system configuration.
 
-I enjoy translating complex financial processes into clear records and timely reports that decision-makers can rely on. My experience spans a range of tools and systems—from ERP platforms like SAP HANA, Kingdee, and Yonyou Clients to accounting software such as Accurate, MYOB and Tradepac, as well as marketplaces and fintech apps including Facebook, Shopee and Paymongo. Whether collaborating with cross-functional teams or working independently, I’m dedicated to delivering accurate, dependable results.
+My experience spans ERP system (SAP HANA, Kingdee, YONYOU), accounting software (Accurate, MYOB, Tradepac), and marketplaces and fintech tools like Shopee Ads, Facebook Ads, and Paymongo. Whether collaborating with cross-functional teams or managing projects independently, I’m dedicated to delivering clear, dependable results.
 
 ---
 
-## 🏆 Professional Experience
+## 💼 Professional Experience
 
-### Freelance Accounting & Data Entry Specialist
-*Jan 2025 – Present | Remote*
-**Client:** Major Travel Agency & Services Group (Australia, Confidential)  
-**Tools:** JIRA, Calypso, Payment Gateways, Excel, Google Sheets, Google Workspace, Adobe Acrobat, Cruise Websites, WhatsApp  
-**What I Did:**  
-- Managed and processed ~5,000 client payments monthly  
-- Maintained accurate financial records and accounts  
-- Streamlined team workflows, removed duplicates, standardized data, and ensured payment accuracy
+**Freelance Accounting & Data Entry Specialist**  
+*Jan 2025 – Present | Remote*  
+Client: E-commerce sellers and fintech platforms
 
-### ERP Consultant at Reach Technologies
-**Client:** Chinese Consumer Electronics Company (Confidential)  
-**Tools:** Kingdee ERP, Excel, Outlook, WeChat, WhatsApp, SQL Management, Power BI, Zentao, WeCom  
-**What I Did:**  
-- Led ERP implementations covering finance, supply chain, and asset management modules.
-- Configured financial reports and templates, trained users, and supported system adoption.
+- Recorded daily transactions, reconciled bank and platform statements, and maintained up-to-date ledgers in Excel.
+- Processed invoices and payment data from Shopee, Tokopedia, Paymongo, and e-wallet platforms to support monthly reporting.
+- Tracked cash flow, managed accounts receivable/payable, and produced financial summaries to support operational visibility. 
+- Tools: Excel, Spreadsheet, Google Workspace, Adobe Acrobat, WhatsApp, Telegram
 
-### 3. Marketing Growth & Data Analysis
-**Client:** Digital Mobile Network Operator (Indonesia, Confidential)  
-**Tools:** Google Forms, Excel, Word, Adobe Analytics, Facebook Ads, Shopee Ads, Tokopedia Ads, Sisense, Metabase, Slack, Hotjar, VPN  
-**What I Did:**  
-- Managed month-end closings, prepared journal entries and reconciliations, and processed payments across multiple platforms.
+**ERP Consultant – Reach Technologies**  
+*May 2023 – Aug 2024 | Hybrid*  
+Client: Chinese Consumer Electronics Companies and Chinese Beauty and Skincare Companies 
+
+- Led end-to-end ERP implementations covering finance, supply chain, costing, asset management and master data modules.
+- Configured custom financial reports, trained users, and supported user acceptance testing using Kingdee ERP and SQL tools.
+- Delivered improved processing speed and streamlined workflows aligned with client requirements. 
+- Tools: Kingdee ERP, SQL Management, Power BI, WeChat  
+
+**Marketing Growth & Data Analysis**  
+*Nov 2020 – Feb 2021 | Remote*  
+Client: Digital Mobile Network Operator (Indonesia)  
+
+- Analyzed campaign and engagement metrics using Adobe Analytics, Sisense, and Shopee Ads data.
+- Created dashboards and reports on customer behavior, NPS trends, and paid media performance.
+- Managed campaign documentation and competitive tracking to inform growth and brand strategy.
+- Tools: Adobe Analytics, Sisense, Metabase, Shopee Ads, Slack 
+
+*More professional experience is available in my resume or upon request.*
 
 #### 🔗 View sample files:
 - [Portfolio Dashboard Monitoring & KPI (Excel)](Portfolio_Dashboard%20Monitoring%20%26%20KPI.xlsx)
@@ -43,21 +50,18 @@ I enjoy translating complex financial processes into clear records and timely re
 
 ## 💡 Skills
 
-- Spreadsheet management (Excel & Google Sheets)
-- Data cleaning and formatting
-- Web research & data mining
-- PDF to Word/Excel conversion
-- Data transcription (audio to text)
-- Bookkeeping & payment processing
-- Financial recordkeeping and reconciliations
-- Journal entries, invoicing, and reporting
-- ERP platforms: SAP HANA, Kingdee, YONYOU
-- Accounting software: Accurate, MYOB, Tradepac
-- Adobe Analytics, Power BI, Sisense
-- Marketplaces & fintech apps: Facebook Ads, Tokopedia Ads, Shopee Ads, Paymongo
-- Clear communication and detail orientation
-- Accounts receivable & payable management
-- Strong attention to detail & confidentiality
+- Bookkeeping, journal entries, and reconciliation  
+- Accounts receivable/payable management  
+- Financial reporting and cash flow tracking  
+- Spreadsheet management (Excel, Google Sheets)  
+- ERP systems: SAP HANA, Kingdee, YONYOU  
+- Accounting software: Accurate, MYOB, Tradepac  
+- Business analytics: Adobe Analytics, Power BI, Sisense  
+- Marketplace & fintech tools: Shopee, Tokopedia, Paymongo  
+- Data cleaning, formatting, and validation  
+- PDF conversion, web research, and transcription  
+- Clear communication and workflow documentation
+
 
 ## 💬 Testimonials
 
@@ -84,6 +88,14 @@ I enjoy translating complex financial processes into clear records and timely re
 
 ---
 
+## 📘 Professional Training
+
+- Kingdee ERP Implementation Training – Reach Technologies (2023)
+- Power BI Skills Development – On-the-job training (2023)
+- SAP FICO Functional Training – PT Kualitas Teknologi Asia (2016)
+
+---
+
 ## 🌐 Languages
 
 - Bahasa Indonesia (native)
@@ -97,11 +109,11 @@ I enjoy translating complex financial processes into clear records and timely re
 Looking for someone who cares about your data as much as you do?  
 Let’s connect and see how I can help your business grow!
 
-- **Email:** [wiliantihuang@gmail.com](mailto:wiliantihuang@gmail.com)
-- **WhatsApp:** [+62 812-8449-8028](https://wa.me/6281284498028)
+- **Email:** wiliantihuang@gmail.com
+- **WhatsApp:** +62 812-8449-8028
 - **LinkedIn:** [Wilianti Huang](https://id.linkedin.com/in/wilianti-huang-07bab4b5/)
 - **Upwork:** [Wilianti.W](https://www.upwork.com/freelancers/~01de347855df8588f0?mp_source=share)
-
+  
 ---
 
 *Thank you for visiting my portfolio!*
