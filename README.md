@@ -31,6 +31,10 @@ Client: Chinese Consumer Electronics Companies and Chinese Beauty and Skincare C
 - Delivered improved processing speed and streamlined workflows aligned with client requirements. 
 - Tools: Kingdee ERP, SQL Management, Power BI, WeChat  
 
+**Accounting Staff – Akulaku Indonesia**  
+*May 2021 – May 2023 | Hybrid*  
+Worked across YONYOU Client, Kingdee, OA and Excel to manage monthly closings, post journal entries, and prepare financial statements. Processed bank transactions, reconciled discrepancies, tracked prepayments, and maintained alignment between ERP records and reports.
+
 **Marketing Growth & Data Analysis**  
 *Nov 2020 – Feb 2021 | Remote*  
 Client: Digital Mobile Network Operator (Indonesia)  
@@ -38,7 +42,7 @@ Client: Digital Mobile Network Operator (Indonesia)
 - Analyzed campaign and engagement metrics using Adobe Analytics, Sisense, and Shopee Ads data.
 - Created dashboards and reports on customer behavior, NPS trends, and paid media performance.
 - Managed campaign documentation and competitive tracking to inform growth and brand strategy.
-- Tools: Adobe Analytics, Sisense, Metabase, Shopee Ads, Slack 
+- Tools: Adobe Analytics, Sisense, Metabase, Shopee Ads, Slack
 
 *More professional experience is available in my resume or upon request.*
 
