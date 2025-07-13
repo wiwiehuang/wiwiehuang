@@ -107,6 +107,12 @@ Client: Digital Mobile Network Operator (Indonesia)
 
 ---
 
+## 🌍 Open for Remote Projects & Freelance Opportunities
+
+I’m available for remote freelance work and project collaborations worldwide. Whether you need help with bookkeeping, financial reporting, ERP workflows, or data cleanup, I’d love to hear from you!
+
+---
+
 ## 📫 Contact Me
 
 Looking for someone who cares about your data as much as you do?  
