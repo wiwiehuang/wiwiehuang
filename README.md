@@ -41,12 +41,6 @@ Client: Digital Mobile Network Operator (Indonesia)
 
 *More professional experience is available in my resume or upon request.*
 
-#### 🔗 View sample files:
-- [Portfolio Dashboard Monitoring & KPI (Excel)](Portfolio_Dashboard%20Monitoring%20%26%20KPI.xlsx)
-
-#### 📊 Dashboard Preview
-- [sample_dashboard monitoring.png](sample_dashboard%20monitoring.png)
-
 ---
 
 ## 💡 Skills
