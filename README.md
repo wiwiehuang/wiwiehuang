@@ -90,6 +90,11 @@ Client: Digital Mobile Network Operator (Indonesia)
 
 ## 📘 Professional Training
 
+![Kingdee ERP](https://img.shields.io/badge/Kingdee-ERP_Training-blue)
+![Power BI](https://img.shields.io/badge/Power_BI-Skills_Development-yellow?logo=powerbi)
+![SAP FICO](https://img.shields.io/badge/SAP-FICO_Training-brightgreen?logo=sap)
+
+
 - Kingdee ERP Implementation Training – Reach Technologies (2023)
 - Power BI Skills Development – On-the-job training (2023)
 - SAP FICO Functional Training – PT Kualitas Teknologi Asia (2016)
