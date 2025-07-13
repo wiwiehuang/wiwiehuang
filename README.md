@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Wilianti Huang
 
----
-
 ## 💡 About Me
 
 I’m a freelance Accounting and Data Entry Specialist with over 7 years of experience helping businesses keep their records precise and operations efficient. I’ve worked with e-commerce brands, fintech companies, and multinational teams on everything from daily transaction processing to ERP system configuration.
