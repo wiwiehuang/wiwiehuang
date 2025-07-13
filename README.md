@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Wilianti Huang
 
+---
 
 ## 💡 About Me
 
@@ -62,6 +63,7 @@ Client: Digital Mobile Network Operator (Indonesia)
 - PDF conversion, web research, and transcription  
 - Clear communication and workflow documentation
 
+---
 
 ## 💬 Testimonials
 
