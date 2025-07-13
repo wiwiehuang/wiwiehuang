@@ -6,7 +6,7 @@
 
 I’m a freelance Accounting and Data Entry Specialist with over 7 years of experience helping businesses keep their records precise and operations efficient. I’ve worked with e-commerce brands, fintech companies, and multinational teams on everything from daily transaction processing to ERP system configuration.
 
-My experience spans ERP system (SAP HANA, Kingdee, YONYOU), accounting software (Accurate, MYOB, Tradepac), and marketplaces and fintech tools like Shopee Ads, Facebook Ads, and Paymongo. Whether collaborating with cross-functional teams or managing projects independently, I’m dedicated to delivering clear, dependable results.
+My experience spans ERP system (SAP HANA, Kingdee, YONYOU), accounting software (Accurate, MYOB, Tradepac), and e-commerce advertising (Shopee Ads, Facebook Ads) and online payment solutions (PayMongo). Whether collaborating with cross-functional teams or managing projects independently, I’m dedicated to delivering clear, dependable results.
 
 ---
 
