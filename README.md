@@ -1,51 +1,18 @@
 # 👋 Hi, I'm Wilianti Huang
 
-**Freelance Accounting & Data Entry Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/wilianti-huang-07bab4b5/)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01de347855df8588f0?mp_source=share)
-[![Email](https://img.shields.io/badge/Email-wiliantihuang@gmail.com-red?logo=gmail&logoColor=white)](mailto:wiliantihuang@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/6281284498028)
+## 💡 About Me
 
----
+I’m a freelance Accounting and Data Entry Specialist passionate about helping businesses stay organized and confident in their numbers. Over the past 7 years, I’ve supported e-commerce brands, fintech companies, and international teams with everything from reconciling daily transactions to customizing ERP workflows.
 
-## 📚 Table of Contents
-
-- [About Me](#-about-me)
-- [Skills](#-skills)
-- [Sample Projects](#-sample-projects)
-- [Testimonials](#-testimonials)
-- [Certifications](#-certifications)
-- [Languages](#-languages)
-- [Contact Me](#-contact-me)
+I enjoy translating complex financial processes into clear records and timely reports that decision-makers can rely on. My experience spans a range of tools and systems—from ERP platforms like SAP HANA, Kingdee, and Yonyou Clients to accounting software such as Accurate, MYOB and Tradepac, as well as marketplaces and fintech apps including Facebook, Shopee and Paymongo. Whether collaborating with cross-functional teams or working independently, I’m dedicated to delivering accurate, dependable results.
 
 ---
 
-## 👩‍💻 About Me
+## 🏆 Professional Experience
 
-Hello! I’m Wilianti, a dedicated freelance accounting and data entry specialist with 7+ years of experience helping businesses keep their records accurate, organized, and confidential.
-
-I love working with numbers, data, and people—making sure your information is always handled efficiently and professionally. Whether you need help with payments, bookkeeping, data entry, transcription, or research, I’m ready to help!
-
----
-
-## 💡 Skills
-
-- Fast and accurate data entry (40+ WPM)
-- Spreadsheet management (Excel & Google Sheets)
-- Data cleaning and formatting
-- Web research & data mining
-- PDF to Word/Excel conversion
-- Data transcription (audio to text)
-- Bookkeeping & payment processing
-- Accounts receivable & payable management
-- Strong attention to detail & confidentiality
-
----
-
-## 🏆 Sample Projects
-
-### 1. Client Financial Record & Database Management
+### Freelance Accounting & Data Entry Specialist
+*Jan 2025 – Present | Remote*
 **Client:** Major Travel Agency & Services Group (Australia, Confidential)  
 **Tools:** JIRA, Calypso, Payment Gateways, Excel, Google Sheets, Google Workspace, Adobe Acrobat, Cruise Websites, WhatsApp  
 **What I Did:**  
@@ -53,28 +20,44 @@ I love working with numbers, data, and people—making sure your information is 
 - Maintained accurate financial records and accounts  
 - Streamlined team workflows, removed duplicates, standardized data, and ensured payment accuracy
 
-### 2. ERP System Consultant & Data Migration
+### ERP Consultant at Reach Technologies
 **Client:** Chinese Consumer Electronics Company (Confidential)  
 **Tools:** Kingdee ERP, Excel, Outlook, WeChat, WhatsApp, SQL Management, Power BI, Zentao, WeCom  
 **What I Did:**  
-- Migrated and organized data for over 2,000 products into Kingdee ERP  
-- Created user guides and financial reports  
-- Supported the full ERP implementation process—from requirements to post-launch support
+- Led ERP implementations covering finance, supply chain, and asset management modules.
+- Configured financial reports and templates, trained users, and supported system adoption.
 
 ### 3. Marketing Growth & Data Analysis
 **Client:** Digital Mobile Network Operator (Indonesia, Confidential)  
 **Tools:** Google Forms, Excel, Word, Adobe Analytics, Facebook Ads, Shopee Ads, Tokopedia Ads, Sisense, Metabase, Slack, Hotjar, VPN  
 **What I Did:**  
-- Updated and analyzed business action lists  
-- Translated documents (English ↔ Indonesian)  
-- Delivered competitor research and data analysis reports for business growth
+- Managed month-end closings, prepared journal entries and reconciliations, and processed payments across multiple platforms.
 
 #### 🔗 View sample files:
 - [Portfolio Dashboard Monitoring & KPI (Excel)](Portfolio_Dashboard%20Monitoring%20%26%20KPI.xlsx)
 
 #### 📊 Dashboard Preview
 - [sample_dashboard monitoring.png](sample_dashboard%20monitoring.png)
+
 ---
+
+## 💡 Skills
+
+- Spreadsheet management (Excel & Google Sheets)
+- Data cleaning and formatting
+- Web research & data mining
+- PDF to Word/Excel conversion
+- Data transcription (audio to text)
+- Bookkeeping & payment processing
+- Financial recordkeeping and reconciliations
+- Journal entries, invoicing, and reporting
+- ERP platforms: SAP HANA, Kingdee, YONYOU
+- Accounting software: Accurate, MYOB, Tradepac
+- Adobe Analytics, Power BI, Sisense
+- Marketplaces & fintech apps: Facebook Ads, Tokopedia Ads, Shopee Ads, Paymongo
+- Clear communication and detail orientation
+- Accounts receivable & payable management
+- Strong attention to detail & confidentiality
 
 ## 💬 Testimonials
 
