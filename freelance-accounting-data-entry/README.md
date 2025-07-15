@@ -9,11 +9,6 @@ This folder contains example files demonstrating how I help clients maintain acc
 
 ![Invoice Log Screenshot](./Screenshot_Invoice_log.jpg)
 
-- [📄 Cash Flow Summary](./cash_flow_summary.xlsx)  
-  A monthly cash flow overview with income, expenses, and balances, formatted for clarity.
-
-- [📄 Reconciliation Tracker](./reconciliation_tracker.xlsx)  
-  A reconciliation template comparing internal records with bank and payment gateway statements.
 
 > 💡 Note: All files are anonymized samples created for demonstration purposes.
 
