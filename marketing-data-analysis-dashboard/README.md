@@ -6,7 +6,7 @@ This folder includes an example marketing performance I created during my work a
  
 - [📄 Marketing Data Analysis Excel](./Marketing_Data_Analysis_Dashboard.xlsx) – A sample report summarizing marketing performance data.
 
-![marketing-data-analysis-dashboard](./Screenshot_Marketing_Data Analysis_Dashboard.jpg)
+![marketing-data-analysis-dashboard](./Screenshot_Marketing_Data Analysis_Dashboard.png)
 
 
 
