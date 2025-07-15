@@ -1,4 +1,4 @@
-<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/e38a1174-95b4-46a2-ad2f-2b30ec2f3b22" />
+<img width="2560" height="1440" alt="Github Banner Image - Wilianti" src="https://github.com/user-attachments/assets/037ae776-67f2-4222-a271-f08e900ba5d2" />
 
 
 ## 💡 About Me
