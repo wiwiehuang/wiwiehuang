@@ -4,7 +4,7 @@ This folder includes an example marketing performance I created during my work a
 
 ## ✨ What's Inside
 
-- **marketing_dashboard.xlsx** – A sample report summarizing campaign performance, customer engagement, and NPS trends.
+- **Marketing_Data Analysis_Dashboard.xlsx** – A sample report summarizing campaign performance, customer engagement, and NPS trends.
 
 Tools used: Excel Business Analyst List, Adobe Analytics, Sisense, Facebook, Shopee, Tokopedia, Metabase, Hotjar.
 
