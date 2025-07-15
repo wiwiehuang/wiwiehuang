@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Wilianti Huang
-
+<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/e38a1174-95b4-46a2-ad2f-2b30ec2f3b22" />
 
 
 ## 💡 About Me
