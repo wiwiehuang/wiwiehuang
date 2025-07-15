@@ -4,7 +4,7 @@ This folder contains example files demonstrating how I help clients maintain acc
 
 ## ✨ What's Included
 
-- [📄 Sample Invoice Log Excel](./Sample_invoice_log.xlsx)  
+- [📄 Sample Invoice Log Excel](./Sample_Invoice_log.xlsx)  
   A log of invoices showing dates, description, due date, quantity, unit price, amounts, and platform sources (Shopee, Paymongo).
 
 ![Invoice Log Screenshot](./Screenshot_Invoice_log.jpg)
