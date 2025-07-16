@@ -13,9 +13,7 @@ This folder contains example files demonstrating how I help clients maintain acc
   A log of cash flow summary showing dates, description, category and amounts.
 
 ![Screenshot_Cash_Flow_Summary](./Screenshot_Cash_Flow_Summary.png)
-
-
-
+![Screenshot_Chart_Cash_Flow_Summary](./Screenshot_Chart_Cash_Flow_Summary.png))
 
 > 💡 Note: All files are anonymized samples created for demonstration purposes.
 
