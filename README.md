@@ -76,6 +76,22 @@ Client: Digital Mobile Network Operator (Indonesia)
 
 ---
 
+## 📁 Repositories
+
+- [Freelance Accounting & Data Entry Samples](./freelance-accounting-data-entry)
+- [Marketing Analysis Dashboard](./marketing-data-analysis-dashboard)
+
+---
+
+🧠 Highlights & Work Ethic
+
+- Maintained 99% accuracy while processing 5,000+ financial records
+- Successfully supported international teams by maintaining clear communication and ensuring seamless remote collaboration  
+- Delivered reconciliations 2–3 days ahead of schedule for e-commerce and fintech clients  
+- Proactively identified and resolved data mismatches before reporting deadlines
+
+---
+
 ## 🎓 Certifications
 
 ![Excel Certified](https://img.shields.io/badge/Excel-Certified-green?logo=microsoft-excel)
@@ -110,13 +126,6 @@ Client: Digital Mobile Network Operator (Indonesia)
 - Bahasa Indonesia (native)
 - English (fluent)
 - Mandarin Chinese (conversational)
-
----
-
-## 📁 Repositories
-
-- [Freelance Accounting & Data Entry Samples](./freelance-accounting-data-entry)
-- [Marketing Analysis Dashboard](./marketing-data-analysis-dashboard)
 
 ---
 
