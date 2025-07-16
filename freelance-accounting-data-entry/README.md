@@ -9,6 +9,13 @@ This folder contains example files demonstrating how I help clients maintain acc
 
 ![Invoice Log Screenshot](./Screenshot_Invoice_log.jpg)
 
+- [📄 Cash_Flow_Summary Excel](./Cash_Flow_Summary_With_Chart.xlsx)  
+  A log of cash flow summary showing dates, description, category and amounts.
+
+![Screenshot_Cash_Flow_Summary](./Screenshot_Cash_Flow_Summary.png)
+
+
+
 
 > 💡 Note: All files are anonymized samples created for demonstration purposes.
 
